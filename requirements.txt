@@ -1,22 +1,21 @@
-streamlit==1.45.1
+streamlit
 
-langchain==0.3.27
-langchain-community==0.3.27
-langchain-core==0.3.72
-langchain-text-splitters==0.3.9
-langchain-groq==0.2.5
-langchain-huggingface==0.1.2
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
 
-faiss-cpu==1.13.0
-pymupdf==1.26.0
-pytesseract==0.3.13
-pillow==11.2.1
-python-dotenv==1.1.1
-groq==0.31.0
+faiss-cpu
+pymupdf
+pytesseract
+pillow
 
-sentence-transformers==5.1.0
-torch
-transformers==4.55.4
+python-dotenv
+groq
+sentence-transformers
+transformers
 
 pymongo
 bcrypt
